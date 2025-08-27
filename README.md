@@ -13,7 +13,7 @@ The focus was on **converting raw project data into meaningful visuals**, making
 
 ## 📷 Dashboard Preview  
 
-![Super Market Sales Performance Dashboard](c7b75b50-2678-4924-9601-e5b30655ebc8.jpeg)
+(c7b75b50-2678-4924-9601-e5b30655ebc8.jpeg)
 
 ---
 
