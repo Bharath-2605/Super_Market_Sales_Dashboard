@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 🔍 Project Overview
 
 This Tableau project combines **multiple charts and dashboards** to analyze data from a specific project dataset. It provides a **comprehensive view of trends, KPIs, and comparative performance metrics** that assist in decision-making.
@@ -13,7 +14,8 @@ The focus was on **converting raw project data into meaningful visuals**, making
 
 ## 📷 Dashboard Preview  
 
-(c7b75b50-2678-4924-9601-e5b30655ebc8.jpeg)
+![00867b07-285d-4d97-88e8-6fc9bbca2565](https://github.com/user-attachments/assets/18db5c37-8820-416b-b0e8-b62df932c016)
+
 
 ---
 
