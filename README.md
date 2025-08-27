@@ -77,7 +77,7 @@ This project helped me strengthen:
 ## 📫 Contact
 
 **Email:** bharathbollineni.2605@gmail.com  
-**LinkedIn:** [linkedin.com/in/bharathbollineni](https://linkedin.com/in/bb-bollineni)
+**LinkedIn:** [linkedin.com/in/bb-bollineni](https://linkedin.com/in/bb-bollineni)
 
 ---
 
