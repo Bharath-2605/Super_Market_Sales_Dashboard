@@ -9,6 +9,11 @@
 This Tableau project combines **multiple charts and dashboards** to analyze data from a specific project dataset. It provides a **comprehensive view of trends, KPIs, and comparative performance metrics** that assist in decision-making.
 
 The focus was on **converting raw project data into meaningful visuals**, making it easier for stakeholders to monitor key performance areas.
+---
+
+## 📷 Dashboard Preview  
+
+![Super Market Sales Performance Dashboard](c7b75b50-2678-4924-9601-e5b30655ebc8.jpeg)
 
 ---
 
